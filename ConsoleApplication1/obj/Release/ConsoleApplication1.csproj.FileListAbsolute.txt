@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\CSharpDLL\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
